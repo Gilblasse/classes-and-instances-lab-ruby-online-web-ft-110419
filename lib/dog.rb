@@ -7,5 +7,5 @@ lassie = Dog.new
 
 class Person
 end
-adele_goldberg = Dog.new 
-lassie = Dog.new 
+adele_goldberg = Person.new 
+alan_kay = Person.new 
